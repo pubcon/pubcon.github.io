@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEO News</title>
+    <link>https://timjohnson.dev/</link>
+    <description>Recent content on SEO News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Oct 2019 03:34:18 -0700</lastBuildDate>
+    
+	<atom:link href="https://timjohnson.dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Knowledge Graph query automation</title>
+      <link>https://timjohnson.dev/research/google-knowledge/</link>
+      <pubDate>Wed, 02 Oct 2019 03:34:18 -0700</pubDate>
+      
+      <guid>https://timjohnson.dev/research/google-knowledge/</guid>
+      <description>I&amp;rsquo;ve found what I think are some new and better ways to query Google Knowledge Graph data and see how you&amp;rsquo;re doing for SEO on select terms.
+I&amp;rsquo;m speaking about this method at PubCon 2019 in Las Vegas, October 9th, and will release a tool at the time as well (for free!).
+The technique should work for a while, I&amp;rsquo;m not doing anything &amp;lsquo;bad&amp;rsquo; though I doubt Google intended this to work&amp;hellip; maybe they&amp;rsquo;ll rate limit these calls or something.</description>
+    </item>
+    
+  </channel>
+</rss>
