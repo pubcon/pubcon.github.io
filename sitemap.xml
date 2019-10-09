@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pubcon.github.io/research/google-knowledge/</loc>
-    <lastmod>2019-10-02T03:34:18-07:00</lastmod>
+    <loc>https://pubcon.github.io/</loc>
+    <lastmod>2019-10-09T13:44:20-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pubcon.github.io/research/freebase-results/</loc>
+    <lastmod>2019-10-09T13:44:20-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://pubcon.github.io/research/</loc>
-    <lastmod>2019-10-02T03:34:18-07:00</lastmod>
+    <lastmod>2019-10-09T13:44:20-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pubcon.github.io/</loc>
+    <loc>https://pubcon.github.io/research/google-knowledge/</loc>
     <lastmod>2019-10-02T03:34:18-07:00</lastmod>
   </url>
   

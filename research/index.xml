@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on SEO News</title>
+    <title>Research on Data and SEO Research</title>
     <link>https://pubcon.github.io/research/</link>
-    <description>Recent content in Research on SEO News</description>
+    <description>Recent content in Research on Data and SEO Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Oct 2019 03:34:18 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2019 13:44:20 -0700</lastBuildDate>
     
 	<atom:link href="https://pubcon.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Freebase Results</title>
+      <link>https://pubcon.github.io/research/freebase-results/</link>
+      <pubDate>Wed, 09 Oct 2019 13:44:20 -0700</pubDate>
+      
+      <guid>https://pubcon.github.io/research/freebase-results/</guid>
+      <description>I&amp;rsquo;ve tried to use @vrandezo&amp;rsquo;s Python notebook from https://github.com/vrandezo/colabs to compare/recreate results, but ran into:
+OSError: [Errno 12] Cannot allocate memory  </description>
+    </item>
     
     <item>
       <title>Google Knowledge Graph query automation</title>
